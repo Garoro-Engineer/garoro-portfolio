@@ -29,6 +29,15 @@ const works = [
     category: "LP制作",
     color: "from-pink-500 to-rose-500",
   },
+  {
+    title: "ORIGIN COFFEE",
+    description:
+      "スペシャルティコーヒーショップ向けのランディングページ。ダークブラウン×アンバーの落ち着いた雰囲気で、こだわりと世界観を表現しました。",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+    url: "https://coffee-shop-lp.vercel.app/",
+    category: "LP制作",
+    color: "from-amber-700 to-yellow-600",
+  },
 ];
 
 const skills = [
