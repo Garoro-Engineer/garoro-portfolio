@@ -47,6 +47,15 @@ const works = [
     category: "LP制作",
     color: "from-violet-600 to-blue-600",
   },
+  {
+    title: "CodePath",
+    description:
+      "プログラミングスクール向けのランディングページ。ライトテーマ×インディゴアクセントで、清潔感と信頼感のある教育系サービスのデザインを表現しました。",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+    url: "https://codepath-lp.vercel.app/",
+    category: "LP制作",
+    color: "from-indigo-500 to-violet-500",
+  },
 ];
 
 const skills = [
