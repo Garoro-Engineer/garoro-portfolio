@@ -56,6 +56,15 @@ const works = [
     category: "LP制作",
     color: "from-indigo-500 to-violet-500",
   },
+  {
+    title: "さくらクリニック",
+    description:
+      "内科・アレルギー科クリニック向けのランディングページ。ホワイト×ミントグリーンで清潔感と安心感を表現し、Web予約フォームも実装しました。",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+    url: "https://sakura-clinic-lp.vercel.app/",
+    category: "LP制作",
+    color: "from-emerald-400 to-teal-500",
+  },
 ];
 
 const skills = [
