@@ -38,6 +38,15 @@ const works = [
     category: "LP制作",
     color: "from-amber-700 to-yellow-600",
   },
+  {
+    title: "Focify",
+    description:
+      "タスク管理アプリ向けのランディングページ。ダーク背景×バイオレット〜ブルーのグラデーションで、モダンなSaaS感を表現しました。",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+    url: "https://focify-lp.vercel.app/",
+    category: "LP制作",
+    color: "from-violet-600 to-blue-600",
+  },
 ];
 
 const skills = [
